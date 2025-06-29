@@ -1,5 +1,7 @@
 # ocarina
-30key reversible monobody split, halves attached together by a n!n or promicro
+30key reversible monobody split, halves attached together by a n!n or promicro.
+
+choc v1, mbk spaced.
 
 firmware has not been written yet
 ![front view render](https://github.com/turnisaa-sgtworms/ocarina/blob/main/images/front.png?raw=true)
