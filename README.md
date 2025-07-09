@@ -3,7 +3,7 @@
 
 choc v1, mbk spaced.
 
-firmware has not been written yet
+firmware is available but the default keymap may be wonky
 ![front view render](https://github.com/turnisaa-sgtworms/ocarina/blob/main/images/front.png?raw=true)
 ![front right angle view render](https://github.com/turnisaa-sgtworms/ocarina/blob/main/images/right%20angle.png?raw=true)
 ![left half pcb](https://github.com/turnisaa-sgtworms/ocarina/blob/main/images/left.png?raw=true)
